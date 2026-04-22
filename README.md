@@ -1,6 +1,7 @@
 # Quiz App
 
 A full-stack trivia web app built using Node.js, Express, and MongoDB.
+
 Demo Video: https://www.youtube.com/watch?v=xiFvBCCKqXg
 
 ## Features
