@@ -2,8 +2,8 @@
 
 A full-stack trivia web app built using Node.js, Express, and MongoDB.
 
-Demo Video: https://www.youtube.com/watch?v=xiFvBCCKqXg
-<video src="https://github.com/user-attachments/assets/453c0bd1-ed3b-4c8a-80ad-e3cea30e3a6a" controls></video>
+Demo Video: https://www.youtube.com/watch?v=5YzOTW3RDyg
+<video src="https://github.com/user-attachments/assets/d887efbe-6df3-4355-8d92-9832296c9a10" controls></video>
 
 ## Features
 - User Registration and login with secure password hashing (scrypt)
